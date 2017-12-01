@@ -1,0 +1,23 @@
++++
+title = "Bag of Local Convolutional Triplets for Script Identification in Scene Text"
+
+authors = ["Jan Zdenek", "Hideki Nakayama"]
+
+date = "2017-11-13"
+
+publication_types = ["1", "7"]
+
+publication = "In *International Conference on Document Analysis and Recognition*."
+publication_short = "In *ICDAR*"
+
+abstract = "The increasing interest in scene text reading in multilingual environments raises the need to recognize and
+distinguish between different writing systems. In this paper, we propose a novel method for script identification
+using convolutional features for the traditional bag-of-words model in a combination with weighting by means
+of intra-cluster information entropy. This approach exploits the expressive representation of convolutional neural
+networks, which have displayed outstanding performance in many text analysis and recognition tasks in recent
+years, discriminative power of script-characteristic features, and generalization abilities of bag-of-words model.
+The proposed method is evaluated on two public benchmark datasets for script identification. The experiments
+demonstrate that our method outperforms the baseline and yields competitive results."
+
++++
+
