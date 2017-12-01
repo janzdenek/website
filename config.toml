@@ -1,4 +1,4 @@
-baseurl = "https://janzdenek.github.io"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://janzdenek.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Jan Zdenek"
 copyright = "&copy; 2017 Jan Zdenek"
 theme = "academic"
